@@ -1,24 +1,7 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# DOMPET SANTRI
+Dompet santri adalah project platform untuk memudahkan komunikasi dalam problem keuangan khususnya agar pengiriman uang kepada santri dapat desentrilize dengan masing-masing santri memiliki id tersendiri dalam bentuk NFC card
+## Spesification 
+### Ruby version 
+`ruby 3.1.2`
+### Rails version
+`rails 7.0.4`
